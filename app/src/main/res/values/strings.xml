@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimeApi</string>
+    <string name="Введите_запрос">Search Image</string>
+</resources>
